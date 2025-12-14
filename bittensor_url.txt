@@ -1,0 +1,6 @@
+https://docs.learnbittensor.org
+https://docs.bittensor.com
+https://docs.bittensor.com/bt-api-ref
+https://github.com/opentensor/bittensor
+https://github.com/opentensor/developer-docs
+https://docs.learnbittensor.org/sdk
