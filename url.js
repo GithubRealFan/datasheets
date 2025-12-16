@@ -6,3 +6,5 @@ https://ieeexplore.ieee.org/document/6086983/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6339098/
 https://www.sciencedirect.com/topics/earth-and-planetary-sciences/continuous-wave-radar
 https://www.mwrf.com/technologies/embedded/systems/article/21849213/pulsed-vs-cw-signals-both-loom-on-a-designers-radar
+https://cdn.techscience.cn/ueditor/files/TSP_IASC-27-1/TSP_IASC_11617/TSP_IASC_11617.pdf
+https://www.academia.edu/108248682/Signal_Processing_for_FMCW_SAR
